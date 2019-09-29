@@ -1,5 +1,5 @@
-#Learning-journal
-##Growth-mindset
+- #Learning-journal
+- ##Growth-mindset
 
 ***My name is Basil Al-Marafi***
 ***I'm 23***
