@@ -14,4 +14,3 @@
 - 2- Keep trying hard 
 - 3- learn from your mistakes
 
-![](https://www.google.com.mx/url?sa=i&source=images&cd=&ved=2ahUKEwjsodzEzvXkAhVE-6QKHZeRA_wQjRx6BAgBEAQ&url=https%3A%2F%2Fcitherapies.com%2Fblog%2Fempowering-a-growth-mindset%2F&psig=AOvVaw0MLfY81ypJfPiy3yjph1r3&ust=1569832118042026)
