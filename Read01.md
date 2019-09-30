@@ -1,6 +1,6 @@
 
-**Markdown :
-*its how to make style for text on web,make text: 
+**Markdown :**
+*its how to make style for text on web,make text:* 
 
 1-bold,italic
 2-adding images
@@ -22,6 +22,5 @@ For listing :
 Ordered : 1.
 Unordered : * 
 
-Images :
-![name] (link)
+Images :![name](link)
 
